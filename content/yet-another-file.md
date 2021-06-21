@@ -1,6 +1,6 @@
 ---
 description: dsfsdf
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/pr4/293349860226484cbb3d70eb49de8098_poi.png
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/pr4/293349860226484cbb3d70eb49de8098_riddlenote.png
 filetype: PDF
 title: yet another file
 type: resource
