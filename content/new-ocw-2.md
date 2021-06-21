@@ -1,6 +1,6 @@
 ---
 description: dfdf
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/pr4/d5abe7da6a8d4be289146702511dd152_poi.png
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/pr4/d5abe7da6a8d4be289146702511dd152_riddlenote.png
 filetype: PDF
 title: new ocw 2
 type: resource
