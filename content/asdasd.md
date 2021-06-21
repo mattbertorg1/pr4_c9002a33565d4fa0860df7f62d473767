@@ -1,6 +1,6 @@
 ---
 description: asdasd
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/pr4/11b9e5bb61594a0dacd0896a188ac6ab_riddlenote.png
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/pr4/11b9e5bb61594a0dacd0896a188ac6ab_poi.png
 filetype: Word Doc
 title: asdasd 1
 type: resource
